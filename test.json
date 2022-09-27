@@ -1,0 +1,18 @@
+[
+	{
+		"id":"1",
+		"addr_text":"1157 Budapest, Páskomliget utca 71."
+	},
+	{
+		"id":"2",
+		"addr_text":"Szeged, Tisza Lajos körút 6."
+	},
+	{
+		"id":"3",
+		"addr_text":"Debrecen, Nagyerdei park"
+	},
+	{
+		"id":"4",
+		"addr_text":"Tata, Tópart utca"
+	}
+]
